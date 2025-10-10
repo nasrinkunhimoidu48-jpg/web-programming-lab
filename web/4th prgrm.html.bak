@@ -1,0 +1,70 @@
+<html>
+<head>
+</head>
+<body>
+<br>
+<h1>table colspan</h1>
+<table border="1">
+<th colspan="6">MCA in MESCE</th>
+<tr>
+<th>1ST SEM SUBJECTS</th>
+<td>Python</td>
+<td>Sw Engineering</td>
+<td>DFCA</td>
+<td>DS</td>
+<td>Web</td>
+</tr>
+<tr>
+<th>fACULTIES</th>
+<td>febin Miss</td>
+<td>Blachandran Sir</td>
+<td>Nowshad Sir</td>
+<td>Geevar sir</td>
+<td>Priya Miss</td>
+</tr>
+</table>
+<br>
+<h1>table rowspan</h1>
+<table border="2">
+<th rowspan="6">MCA in MESCE</th>
+<tr>
+<th>2nd SEM SUBJECTS</th>
+<td>Python</td>
+<td>Sw Engineering</td>
+<td>DFCA</td>
+<td>DS</td>
+<td>Web</td>
+</tr>
+<tr>
+<th>fACULTIES</th>
+<td>febin Miss</td>
+<td>Blachandran Sir</td>
+<td>Nowshad Sir</td>
+<td>Geevar sir</td>
+<td>Priya Miss</td>
+</tr>
+</table>
+<br>
+<br>
+<h1>table colspan and rowspan</h1>
+<table border="1">
+<th colspan="6">MCA in MESCE</th>
+<tr>
+<th rowspan="2">3rd SEM </th>
+<td>Python</td>
+<td>Sw Engineering</td>
+<td>DFCA</td>
+<td>DS</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>febin Miss</td>
+<td>Blachandran Sir</td>
+<td>Nowshad Sir</td>
+<td>Geevar sir</td>
+<td>Priya Miss</td>
+</tr>
+</table>
+<br>
+</body>
+</html>

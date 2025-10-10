@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>my 3rd webpage</title>
+</head>
+<body>
+<center>
+<h1>MCA</h1>
+</center>
+<br>
+<br>
+<br>
+<h3>
+<p><i>An <b> MCA </b>degree is a Master of Computer Applications</i>, <br>
+a two-year postgraduate program designed to provide students with comprehensive knowledge <br>
+and practical skills in computer applications, software development, system design, and related IT fields</p>
+</h3>
+
+<br>
+<br>
+
+<p> <b>It's a professional degree</b> focused on industry-oriented education, 
+requiring a bachelor's degree with a background in mathematics and often admission through university-level entrance exams like NIMCET or CUET PG.<br>
+i am pursuing mca at mesce college.</p>
+<center>
+<p><u>you can visit website in this image click below</u><br>
+<br>
+<a href="https://www.shiksha.com/mca-master-of-computer-applications-chp"><b></b><img src="mca.jpg" height="200",width="200"></a></center></p>
+<br>
+
+<p>
+<h3><b>MCA</b></h3>
+
+<ol type="1">
+<li>Purpose: To provide a strong foundation in computer applications, software development, and related fields. </li>
+<li>Duration: Typically a 2-year program, although it has historically been 3 years. </li>
+<li>Eligibility: Requires a bachelor's degree in computer science, information technology, or a related field, often with a minimum percentage of marks. </li>
+</ol>
+<!--<th>mca</th>-->
+
+
+<h3>Who is it for?</h3>
+
+<ul type="circle">
+<li>Want to build expertise in software development and application design. </li>
+<li>Have a strong interest in computer science and programming. </li>
+</ul>
+</p>
+
+<br>
+<br>
+<!--<th>description list</th>-->
+<dl>
+<dt>Is MCA 2 years or 3 years?</dt>
+<dd>The duration of the MCA course is typically two years</dd>
+
+<dt>Is MCA a good career option?</dt>
+<dd>Yes, an MCA degree is a good career option</dd>
+
+</dl>
+
+<p><center>
+<img src="photomca.jpg" height="200",width="200">
+</center>
+</p>
+<table border="1">
+<th colspan="6">MCA in MESCE</th>
+<tr>
+<th>1ST SEM SUBJECTS</th>
+<td>Python</td>
+<td>Sw Engineering</td>
+<td>DFCA</td>
+<td>DS</td>
+<td>Web</td>
+</tr>
+<tr>
+<th>fACULTIES</th>
+<td>febin Miss</td>
+<td>Blachandran Sir</td>
+<td>Nowshad Sir</td>
+<td>Geevar sir</td>
+<td>Priya Miss</td>
+</tr>
+</table>
+<br>
+<br>
+
+<table border="1">
+<th colspan="4">BCA in MESCE</th>
+<tr>
+<th>1ST SEM SUBJECTS</th>
+<td>Maths</td>
+<td>Php</td>
+<td>OS</td>
+</tr>
+<tr>
+<th>fACULTIES</th>
+<td>Lutu Frsana Miss</td>
+<td>Geevar sir</td>
+<td>Priya Miss</td>
+</tr>
+</table>
+<br>
+<br>
+<a href="file:///C:/Users/Admin/Desktop/S1_nasrin%20kunhimoidu%2048/web/2nd%20prgrm.html"><center><br><b>Click here</center></b></a>
+<center>thankyou</center>
+
+</body>
+</html>

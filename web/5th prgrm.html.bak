@@ -1,0 +1,33 @@
+<html>
+<head>
+</head>
+<body>
+
+<table border="1">
+<tr>
+<td>sem</td>
+<td>reg no</td>
+<td>name</td>
+<td colspan="2">marks</td>
+</tr>
+<tr>
+<td rowspan="2">s1</td>
+<td>8132</td>
+<td>xy</td>
+<td colspan="2">I</td>
+<td>50</td>
+<tr>
+<td>8233</td>
+</tr>
+</tr>
+<tr>
+<td>s2</td>
+<</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+<br>
+</body>
+</html>
